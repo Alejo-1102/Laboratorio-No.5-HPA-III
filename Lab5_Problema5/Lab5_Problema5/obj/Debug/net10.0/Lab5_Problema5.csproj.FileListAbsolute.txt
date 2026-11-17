@@ -1,0 +1,15 @@
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\bin\Debug\net10.0\Lab5_Problema5.exe
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\bin\Debug\net10.0\Lab5_Problema5.deps.json
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\bin\Debug\net10.0\Lab5_Problema5.runtimeconfig.json
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\bin\Debug\net10.0\Lab5_Problema5.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\bin\Debug\net10.0\Lab5_Problema5.pdb
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.AssemblyInfoInputs.cache
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.AssemblyInfo.cs
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\refint\Lab5_Problema5.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.pdb
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Problema5.genruntimeconfig.cache
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\ref\Lab5_Problema5.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema5\Lab5_Problema5\obj\Debug\net10.0\Lab5_Pro.10849F89.Up2Date
