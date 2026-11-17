@@ -1,0 +1,15 @@
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\bin\Debug\net10.0\Lab5_Problema 3.exe
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\bin\Debug\net10.0\Lab5_Problema 3.deps.json
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\bin\Debug\net10.0\Lab5_Problema 3.runtimeconfig.json
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\bin\Debug\net10.0\Lab5_Problema 3.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\bin\Debug\net10.0\Lab5_Problema 3.pdb
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.AssemblyInfoInputs.cache
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.AssemblyInfo.cs
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\refint\Lab5_Problema 3.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.pdb
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Problema 3.genruntimeconfig.cache
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\ref\Lab5_Problema 3.dll
+C:\Users\Aleja\OneDrive\Escritorio\Laboratorios HPA III\Lab5_Problema 3\Lab5_Problema 3\obj\Debug\net10.0\Lab5_Pro.46D63869.Up2Date
