@@ -125,6 +125,8 @@ la cadena sql es: INSERT INTO productos (Nombre, Precio, Cantidad) VALUES (@Nomb
 ```
 
 **Evidencia:**
+<img width="1232" height="83" alt="image" src="https://github.com/user-attachments/assets/c5b949b7-5522-48fb-b51c-51bc92643df0" />
+
 
 ![Resultado del Problema 2](docs/img/problema2.png)
 
