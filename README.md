@@ -154,6 +154,8 @@ Resultado double: 20.25
 ```
 
 **Evidencia:**
+<img width="561" height="162" alt="image" src="https://github.com/user-attachments/assets/f1bec343-8868-4ae0-bc16-ed38bbe9f17a" />
+
 
 ![Resultado del Problema 3](docs/img/problema3.png)
 
@@ -187,6 +189,8 @@ El programa imprime el factorial de 0 a 10.
 ```
 
 **Evidencia:**
+<img width="411" height="260" alt="image" src="https://github.com/user-attachments/assets/77bfb24f-ee84-4609-bd7a-390d5e59382b" />
+
 
 ![Resultado del Problema 4](docs/img/problema4.png)
 
@@ -213,6 +217,7 @@ Cara     Frecuencia
 ```
 
 **Evidencia:**
+<img width="268" height="182" alt="image" src="https://github.com/user-attachments/assets/dc90b805-1d2e-48ab-8a00-61afd642e925" />
 
 ![Resultado del Problema 5](docs/img/problema5.png)
 
